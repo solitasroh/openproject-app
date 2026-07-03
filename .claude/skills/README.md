@@ -9,6 +9,9 @@ Claude Code project skills for this repository. Each subdirectory contains a
   User-invocable only (`/grill-me`); it delegates to `grilling`.
 - **`grilling`** — Interviews you one question at a time (with a recommended
   answer each time) until a plan/design is fully resolved.
+- **`commit`** — Commits the working tree using Conventional Commits, splitting
+  changes into logical units with Korean subjects (with optional `[OP#…]`
+  ticket prefixes) and an approval gate before committing.
 
 ## Attribution
 
