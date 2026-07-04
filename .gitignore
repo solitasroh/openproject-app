@@ -1,0 +1,5 @@
+# 로컬 전용 · 비밀 (커밋 금지)
+*.local.md
+.env
+.env.*
+!.env.example
